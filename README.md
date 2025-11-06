@@ -44,7 +44,7 @@ Este proyecto busca profundizar en:
 ## 👤 Autor
 **Nicolás Ferraro**  
 🎓 Desarrollador de videojuegos con experiencia en C++, Unity y Unreal Engine.  
-📫 [LinkedIn](https://www.linkedin.com/in/nicolas-ferraro/) · [Portfolio](https://afipinspector.itch.io/)
+📫 [LinkedIn](https://www.linkedin.com/in/nicolas-ferraro-profile/) · [Portfolio](https://afipinspector.itch.io/)
 
 ---
 
@@ -108,7 +108,7 @@ This project aims to deepen understanding of:
 ## 👤 Author
 **Nicolás Ferraro**  
 🎓 Game Developer experienced in C++, Unity, and Unreal Engine.  
-📫 [LinkedIn](https://www.linkedin.com/in/nicolas-ferraro/) · [Portfolio](https://afipinspector.itch.io/)
+📫 [LinkedIn](https://www.linkedin.com/in/nicolas-ferraro-profile/) · [Portfolio](https://afipinspector.itch.io/)
 
 ---
 
