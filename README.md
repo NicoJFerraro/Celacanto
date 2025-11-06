@@ -10,11 +10,11 @@ El objetivo del proyecto es construir desde cero un **shooter multijugador en re
 ## 🚧 Estado del proyecto
 Actualmente en desarrollo.  
 El proyecto se encuentra en la etapa de **implementación de mecánicas base**, incluyendo:
-- Movimiento del personaje (Character Movement Component)
+- ✅ **Movimiento del personaje (Character Movement Component)**
 - Disparo y replicación en red (Server/Client)
 - Sistema de armas modular
 - Control de salud y daño
-- Animaciones y efectos visuales básicos
+- ✅ **Animaciones y efectos visuales básicos**
 - Pruebas iniciales de UI y HUD
 - ✅ **Integración del Online Subsystem de Steam** — conexión exitosa a servidores Steam y manejo del flujo de sesiones (crear, unir, listar y destruir)
 
